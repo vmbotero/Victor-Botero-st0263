@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+service FileService {
+  rpc Upload(UploadRequest) returns (UploadResponse);
+  rpc Download(DownloadRequest) returns (DownloadResponse);
+}
+
+message File {
+  string content = 1;
+}
+
+message UploadRequest {
+  string filename = 1;
+  File file = 2;
+}
+
+message UploadResponse {
+  string message = 1;
+}
+
+message DownloadRequest {
+  string filename = 1;
+}
+
+message DownloadResponse {
+  File file = 1;
+}
