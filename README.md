@@ -37,7 +37,7 @@ py p_server.py>
 <Para el cliente (p_client.py), recuerde utilizar otra terminal y ejecute:
 py p_client.py>
 
-<img src="https://docs.google.com/document/d/13UgVoN-MHM2qdVKevYDGSJvoaxu1-W1RNSEjC8auNW0/edit?usp=sharing">
+https://docs.google.com/document/d/13UgVoN-MHM2qdVKevYDGSJvoaxu1-W1RNSEjC8auNW0/edit?usp=sharing
 
 
 ### Detalles de Desarrollo y Técnicos
@@ -48,6 +48,10 @@ py p_client.py>
 <Incluir imágenes o capturas de pantalla si es necesario.>
 
 - https://www.canva.com/design/DAF-s4b3Dwo/DpQQ7ZIQJMeADuN-9W6WQA/view?utm_content=DAF-s4b3Dwo&utm_campaign=designshare&utm_medium=link&utm_source=recording_view
+
+- Imágenes
+
+https://docs.google.com/document/d/13UgVoN-MHM2qdVKevYDGSJvoaxu1-W1RNSEjC8auNW0/edit?usp=sharing
 
 ## 4. Ambiente de ejecución
 
