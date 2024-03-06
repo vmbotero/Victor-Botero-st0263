@@ -20,7 +20,7 @@
 ## 2. Diseño e información general
 <El proyecto se adhiere a una arquitectura P2P, permitiendo a los usuarios compartir archivos directamente entre sí. La gestión de la información del usuario y los archivos compartidos se lleva a cabo mediante un servidor central implementado en Flask. La transferencia de archivos se efectúa a través de gRPC.>
 
-<img src="https://postimg.cc/hJdY9w6B">
+<img src="https://i.postimg.cc/1zCZZ1Kf/P2-P-drawio.png">
 
 ## 3. Ambiente de desarrollo
 - Lenguaje de Programación: Python
@@ -47,7 +47,7 @@ py p_client.py>
 ### Resultados o pantallazos
 <Incluir imágenes o capturas de pantalla si es necesario.>
 
-<img src="https://www.canva.com/design/DAF-s4b3Dwo/DpQQ7ZIQJMeADuN-9W6WQA/view?utm_content=DAF-s4b3Dwo&utm_campaign=designshare&utm_medium=link&utm_source=recording_view">
+- https://www.canva.com/design/DAF-s4b3Dwo/DpQQ7ZIQJMeADuN-9W6WQA/view?utm_content=DAF-s4b3Dwo&utm_campaign=designshare&utm_medium=link&utm_source=recording_view
 
 ## 4. Ambiente de ejecución
 
